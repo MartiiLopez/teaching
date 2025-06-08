@@ -2,4 +2,4 @@ from django.http import HttpResponse
 
 
 def vistaAModificar(request):
-    return HttpResponse("martu")
+    return HttpResponse("martuu")
