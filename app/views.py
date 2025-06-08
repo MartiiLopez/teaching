@@ -2,4 +2,4 @@ from django.http import HttpResponse
 
 
 def vistaAModificar(request):
-    return HttpResponse("Get in loser, we're going shopping.")
+    return HttpResponse("Esta es la vista a modificar")
