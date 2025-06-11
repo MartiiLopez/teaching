@@ -2,6 +2,8 @@ from django.http import HttpResponse
 
 
 def vistaAModificar(request):
-    return HttpResponse("martuu")
+    return HttpResponse("Get in loser, we're going shopping.")
 
-#soy martua
+### sos re puta!!!
+# re putita!!!
+# recontra!!
