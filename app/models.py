@@ -7,3 +7,6 @@ from django.db import models
 # bucaramanga
 
 #### donnarumma
+# cartagena
+# panfleta
+# barranquilla
